@@ -13,8 +13,6 @@ namespace dzshka3
             int l = int.Parse(Console.ReadLine());
             decimal s = pi * r * (r + l);
             Console.WriteLine($"Площадь поверхности круглого конуса равна {s} см^2 ");
-
-
         }
     }
 }
