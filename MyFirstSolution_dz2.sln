@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dzshka5.1", "dzshka5.1\dzsh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryV2", "ClassLibraryV2\ClassLibraryV2.csproj", "{A0B9CE10-2877-49BA-B542-6331AC26025C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dzshka5.2", "dzshka5.2\dzshka5.2.csproj", "{638129CF-C258-489B-AF29-30A2E38F63D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryConeSqu", "ConeSqu\ClassLibraryConeSqu.csproj", "{93EC5461-A396-472F-BA9A-EB101E6577F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -57,6 +61,14 @@ Global
 		{A0B9CE10-2877-49BA-B542-6331AC26025C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A0B9CE10-2877-49BA-B542-6331AC26025C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{A0B9CE10-2877-49BA-B542-6331AC26025C}.Release|anycpu.Build.0 = Release|anycpu
+		{638129CF-C258-489B-AF29-30A2E38F63D5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{638129CF-C258-489B-AF29-30A2E38F63D5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{638129CF-C258-489B-AF29-30A2E38F63D5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{638129CF-C258-489B-AF29-30A2E38F63D5}.Release|anycpu.Build.0 = Release|anycpu
+		{93EC5461-A396-472F-BA9A-EB101E6577F8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{93EC5461-A396-472F-BA9A-EB101E6577F8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{93EC5461-A396-472F-BA9A-EB101E6577F8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{93EC5461-A396-472F-BA9A-EB101E6577F8}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
